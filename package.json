@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "cli": "node cli.js ./arquivo/texto.md"
+    "cli": "node cli.js ./arquivos/texto.md"
   },
   "keywords": [],
   "author": "",
