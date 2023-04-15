@@ -25,6 +25,7 @@ async function pegaArquivo(caminhoDoArquivo){
         return(extraiLinks(texto));
     } catch (erro) {
         trataErro(erro);
+        
     }
 }
 
